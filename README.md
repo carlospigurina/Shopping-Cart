@@ -22,3 +22,14 @@
 <br/>
 <hr/>
 <!-- TECH STACK -->
+
+<!-- DEMO -->
+<h3 align="center"> Try the Demo by yourself ! </h3>
+<br>
+<div align="center">
+  <a href="https://carlospigurina.github.io/Shopping-Cart/">
+    <img src="https://img.shields.io/badge/Github-333333?style=for-the-badge&logo=gmail&logoColor=red" style="text-decoration:none;"/>
+  </a>
+</div>
+<!-- DEMO -->
+
