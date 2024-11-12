@@ -28,7 +28,7 @@
 <br>
 <div align="center">
   <a href="https://carlospigurina.github.io/Shopping-Cart/">
-    <img src="https://img.shields.io/badge/Github-333333?style=for-the-badge&logo=gmail&logoColor=red" style="text-decoration:none;"/>
+    <img src="https://img.shields.io/badge/Github-333333?style=for-the-badge&logo=github&logoColor=red" style="text-decoration:none;"/>
   </a>
 </div>
 <!-- DEMO -->
