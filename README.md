@@ -27,7 +27,7 @@
 <h3 align="center"> Try the Demo by yourself ! </h3>
 <br>
 <div align="center">
-  <a href="https://carlospigurina.github.io/Shopping-Cart/">
+  <a href="https://carlospigurina.github.io/Shopping-Cart/" target="_blank">
     <img src="https://img.shields.io/badge/Shopping Cart-333333?style=for-the-badge&logo=github&logoColor=white" style="text-decoration:none;"/>
   </a>
 </div>
