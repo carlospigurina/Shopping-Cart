@@ -24,7 +24,7 @@
 <!-- TECH STACK -->
 
 <!-- DEMO -->
-<h3 align="center"> Try the Demo by yourself ! </h3>
+<h3 align="center"> Try the Demo by yourself ! 🔽 </h3>
 <br>
 <div align="center">
   <a href="https://carlospigurina.github.io/Shopping-Cart/" target="_blank">
