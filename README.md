@@ -6,7 +6,7 @@
 
 <!-- DESCRIPTION -->
 <br>
-<h3 align="center">This is one of my Front-End projects that i have been working on, it's a functional shopping cart which you can add courses and see the price, image, name of each course added to the cart. <br/><br>Developed using the current stack (languages, frameworks, tools). </h3>
+<h3 align="center">This is one of my Front-End projects that i have been working on, it's a functional shopping cart which you can add courses and see the price, image, name of each course added to the cart. <br/><br>Developed using the current stack (languages, frameworks, tools) <br> I hope it can be useful for anyone of you 🤙. </h3>
 <br>
 <hr>
 <!-- DESCRIPTION -->
